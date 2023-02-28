@@ -1,1 +1,27 @@
-
+{
+  "name": "http-server",
+  "version": "1.0.0",
+  "description": "this is my wd201",
+  "main": "index.js",
+  "dependencies": {
+    "minimist": "^1.2.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-with-dhruv/wd201.git"
+  },
+  "keywords": [
+    "wd201"
+  ],
+  "author": "Dhruv Chopra <chopradhruv1000@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/code-with-dhruv/wd201/issues"
+  },
+  "homepage": "https://github.com/code-with-dhruv/wd201#readme"
+}
