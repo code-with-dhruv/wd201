@@ -1,0 +1,24 @@
+{
+  "name": "todo-cli",
+  "version": "1.0.0",
+  "description": "web dev",
+  "main": "todo.js",
+  "scripts": {
+    "test": "jest",
+    "prepare": "cd .. && husky install todo-cli/.husky"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-with-dhruv/wd201.git"
+  },
+  "author": "Dheeraj krishna <dheruvuvdf@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/code-with-dhruv/wd201/issues"
+  },
+  "homepage": "https://github.com/code-with-dhruv/wd201#readme",
+  "devDependencies": {
+    "husky": "^8.0.3",
+    "jest": "^29.4.3"
+  }
+}
